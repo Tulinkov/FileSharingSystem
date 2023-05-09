@@ -1,0 +1,55 @@
+﻿<Window x:Class="SborkaDownloader.View.DowloaderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:SborkaDownloader.ViewModel"
+        xmlns:local="clr-namespace:SborkaDownloader.View"
+        mc:Ignorable="d"
+        Title="Sborka downloader" Height="450" Width="1200">
+    <Window.DataContext>
+        <vm:DownloaderVM/>
+    </Window.DataContext>
+    <Window.Resources>
+        <local:LongToFilesSizeConverter x:Key="FileSizeConverter" />
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="20" />
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Order id" Grid.Column="0" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Text="File name" Grid.Column="1" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Text="Google Drive id" Grid.Column="2" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Text="Download progress" Grid.Column="3" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" />
+        </Grid>
+        <ListView ItemsSource="{Binding LayoutFiles}" HorizontalContentAlignment="Stretch" Grid.Row="1">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="4*"/>
+                            <ColumnDefinition Width="3*"/>
+                            <ColumnDefinition Width="3*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="{Binding OrderId}" Grid.Column="0"/>
+                        <TextBlock Text="{Binding Name}" Grid.Column="1" />
+                        <TextBlock Text="{Binding GoogleFileId}" Grid.Column="2" />
+                        <ProgressBar Minimum="0" Maximum="{Binding FileSize}" Value="{Binding Progress}" Grid.Column="3" />
+                        <TextBlock Text="{Binding FileSize, Converter={StaticResource FileSizeConverter}}" Grid.Column="3" HorizontalAlignment="Center" />
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <TextBlock Text="{Binding Status}" Grid.Row="3" Padding="0 0 20 0" Background="#33000000" TextAlignment="Right" />
+    </Grid>
+</Window>

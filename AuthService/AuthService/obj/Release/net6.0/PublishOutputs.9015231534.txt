@@ -1,0 +1,11 @@
+D:\ASP NET\Sborka Drive\AuthService\AuthService\obj\Release\net6.0\PubTmp\Out\AuthService.exe
+D:\ASP NET\Sborka Drive\AuthService\AuthService\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\ASP NET\Sborka Drive\AuthService\AuthService\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\ASP NET\Sborka Drive\AuthService\AuthService\obj\Release\net6.0\PubTmp\Out\AuthService.dll
+D:\ASP NET\Sborka Drive\AuthService\AuthService\obj\Release\net6.0\PubTmp\Out\AuthService.deps.json
+D:\ASP NET\Sborka Drive\AuthService\AuthService\obj\Release\net6.0\PubTmp\Out\AuthService.runtimeconfig.json
+D:\ASP NET\Sborka Drive\AuthService\AuthService\obj\Release\net6.0\PubTmp\Out\AuthService.pdb
+D:\ASP NET\Sborka Drive\AuthService\AuthService\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\ASP NET\Sborka Drive\AuthService\AuthService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP NET\Sborka Drive\AuthService\AuthService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP NET\Sborka Drive\AuthService\AuthService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

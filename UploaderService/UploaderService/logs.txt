@@ -1,0 +1,69 @@
+2023-05-08 11:58:48.865 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-08 11:58:48.909 -04:00 [INF] Hosting environment: Development
+2023-05-08 11:58:48.912 -04:00 [INF] Content root path: D:\ASP NET\Sborka Drive\UploaderService\UploaderService
+2023-05-08 11:58:51.156 -04:00 [INF] File cherkassy_(158-1330869)_1000_(90x50)_4-4_350_72-face.pdf : 15-e2iLlD0xFYmrTi9I6RUkSFrFPt-lAP
+2023-05-08 11:58:52.655 -04:00 [INF] File krasnoarmeysk_(190-1330145)_1000_(90x50)_4-4_350_24-face.pdf : 1tQ8IdNO3YVBlBBuTl8pM9aq8NlxxlzJ5
+2023-05-08 11:58:54.301 -04:00 [INF] File lutsk_(6996-1330431)_1000_(100x70)_4-4_250_24-face.pdf : 1BhaBehzBCWbH89OEK3XQTWc5l2vR2idl
+2023-05-08 11:58:55.716 -04:00 [INF] File chernovtsy_(867-1330999)_100_(85x55)_4-0_350_24_lam_digital.pdf : 122kTn3AeSwqteIQi0sT3N7us07Dl8UE4
+2023-05-08 11:58:57.322 -04:00 [INF] File kremenchug_(6864-1330094)_1000_(90x50)_4-4_350_72-face.pdf : 1klyysBmiuohK_KcABNFNzUsH-5yraChY
+2023-05-08 11:58:58.936 -04:00 [INF] File rovno_(6225-1330896)_1000_(90x50)_4-4_350_24-face.pdf : 1NRlJneoGlhRJkSXC8B5myqVFtAqRh1Om
+2023-05-08 11:59:00.517 -04:00 [INF] File sevastopol_(180-1330274)_1000_(90x50)_4-4_350_24-face.pdf : 1Jzo_-lrp6dLiEWyeMEY_z4anhcbQeD3i
+2023-05-08 11:59:02.203 -04:00 [INF] File truskavets_(2311-1326665)_70x100_1000_sticker.pdf : 12RSeykKIpE8Qp2rm7IGnECDruYerPH7g
+2023-05-08 11:59:03.710 -04:00 [INF] File cherkassy_(3494-1327409)-face.pdf : 1yUobOil4Xu20muqf5hxElRhab8apn3iK
+2023-05-08 11:59:08.982 -04:00 [INF] Application is shutting down...
+2023-05-08 12:11:42.317 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-08 12:11:42.365 -04:00 [INF] Hosting environment: Development
+2023-05-08 12:11:42.369 -04:00 [INF] Content root path: D:\ASP NET\Sborka Drive\UploaderService\UploaderService
+2023-05-08 12:11:44.628 -04:00 [INF] File cherkassy_(158-1330869)_1000_(90x50)_4-4_350_72-face.pdf : 13nhBCkjZ-DjsWxTyzVSLcEJWED1dkZ_f
+2023-05-08 12:11:46.193 -04:00 [INF] File krasnoarmeysk_(190-1330145)_1000_(90x50)_4-4_350_24-face.pdf : 1fM2Z4lMt7HIt18bfX4idBUWztg3HLr_e
+2023-05-08 12:11:47.777 -04:00 [INF] File lutsk_(6996-1330431)_1000_(100x70)_4-4_250_24-face.pdf : 1-kDNHR9VHsYdJFxOJ8e6OArka2zKK4A8
+2023-05-08 12:11:49.184 -04:00 [INF] File chernovtsy_(867-1330999)_100_(85x55)_4-0_350_24_lam_digital.pdf : 16OomJodRwTqq6J4EymPVRjkgqnO8s5to
+2023-05-08 12:11:50.674 -04:00 [INF] File kremenchug_(6864-1330094)_1000_(90x50)_4-4_350_72-face.pdf : 1Awk5Y9Ca40iVOx4FtS2dvuMQNA5ZFeKL
+2023-05-08 12:11:52.115 -04:00 [INF] File rovno_(6225-1330896)_1000_(90x50)_4-4_350_24-face.pdf : 1LlwdIKy_9km83nK5o3Wd_KwYSDiWGzzh
+2023-05-08 12:11:53.656 -04:00 [INF] File sevastopol_(180-1330274)_1000_(90x50)_4-4_350_24-face.pdf : 1q_Fm3pss4ikDrD5hKlW9UIlABZfxQ0Am
+2023-05-08 12:11:55.184 -04:00 [INF] File truskavets_(2311-1326665)_70x100_1000_sticker.pdf : 1oAVyLWLzZ6vxy56ux_kfsvLsLRsTpTMB
+2023-05-08 12:11:56.733 -04:00 [INF] File cherkassy_(3494-1327409)-face.pdf : 1q47uRYdVWy3TNrlz2e--e9dvtUBHnOtH
+2023-05-08 12:11:58.180 -04:00 [INF] File belgorod-dnestrovskiy_(1279-1331064)_10000_(100x70)_4-4_250_72-face.pdf : 1Se_bLWSsreNcUvISoFoFxCsl_wQzIqZc
+2023-05-09 00:43:44.237 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-09 00:43:44.270 -04:00 [INF] Hosting environment: Development
+2023-05-09 00:43:44.273 -04:00 [INF] Content root path: D:\ASP NET\Sborka Drive\UploaderService\UploaderService
+2023-05-09 00:43:47.089 -04:00 [INF] File cherkassy_(158-1330869)_1000_(90x50)_4-4_350_72-face.pdf : 1Q0wA2d4Ig7eqYgItOLEIQBP_0-ruX4-L
+2023-05-09 00:43:48.457 -04:00 [INF] File krasnoarmeysk_(190-1330145)_1000_(90x50)_4-4_350_24-face.pdf : 192Vjjc0y7HxO-vcTCiGEEkfKFcMSbUGw
+2023-05-09 00:43:50.015 -04:00 [INF] File lutsk_(6996-1330431)_1000_(100x70)_4-4_250_24-face.pdf : 1Y0osaj0erYZ0MlMs_p6iuhcQX7Ep1WFm
+2023-05-09 00:43:51.378 -04:00 [INF] File chernovtsy_(867-1330999)_100_(85x55)_4-0_350_24_lam_digital.pdf : 1aNH1ArzjqmXfbqXbg2duTsZIBpwdDAdT
+2023-05-09 00:43:52.870 -04:00 [INF] File kremenchug_(6864-1330094)_1000_(90x50)_4-4_350_72-face.pdf : 1NC89atANL7lyA10gMw3kOr_DcbaMM6O7
+2023-05-09 00:43:54.160 -04:00 [INF] File rovno_(6225-1330896)_1000_(90x50)_4-4_350_24-face.pdf : 1-WAlv_yici_AdW2V9SyGUDiWRrxVSObu
+2023-05-09 00:43:55.536 -04:00 [INF] File sevastopol_(180-1330274)_1000_(90x50)_4-4_350_24-face.pdf : 1GLyRpYXq2buidD_pYxpT1L8VE-TuUZwZ
+2023-05-09 00:43:56.990 -04:00 [INF] File truskavets_(2311-1326665)_70x100_1000_sticker.pdf : 1F1j-CHhRmpN8_G9Af6PUVKz4x7HJe8if
+2023-05-09 00:43:58.350 -04:00 [INF] File cherkassy_(3494-1327409)-face.pdf : 1TqGPFQz3YojdNTXv_y-9rWBwqv8y5FRF
+2023-05-09 00:43:59.715 -04:00 [INF] File belgorod-dnestrovskiy_(1279-1331064)_10000_(100x70)_4-4_250_72-face.pdf : 1jJCButgXWlpp7Un9uyhsM6khM54wfCoV
+2023-05-09 00:54:46.530 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-09 00:54:46.574 -04:00 [INF] Hosting environment: Development
+2023-05-09 00:54:46.578 -04:00 [INF] Content root path: D:\ASP NET\Sborka Drive\UploaderService\UploaderService
+2023-05-09 00:55:13.786 -04:00 [INF] File cherkassy_(158-1330869)_1000_(90x50)_4-4_350_72-face.pdf : 1nrYRrmbrwH1aFhaE81K07jpTfQokzwrb
+2023-05-09 00:55:15.115 -04:00 [INF] File krasnoarmeysk_(190-1330145)_1000_(90x50)_4-4_350_24-face.pdf : 13AU4tZoCU8WJdjBqfpmjOmNHaZ2hNEGP
+2023-05-09 00:55:16.431 -04:00 [INF] File lutsk_(6996-1330431)_1000_(100x70)_4-4_250_24-face.pdf : 1aDu6VBQ1nymC3uqRV7MRrLAGLyLKnuz2
+2023-05-09 00:55:17.883 -04:00 [INF] File chernovtsy_(867-1330999)_100_(85x55)_4-0_350_24_lam_digital.pdf : 1VWk73BCZid1xypC7YILfdgxPE6EMWKTU
+2023-05-09 00:55:19.360 -04:00 [INF] File kremenchug_(6864-1330094)_1000_(90x50)_4-4_350_72-face.pdf : 15Err6H4Hl8vxbp4RuRUj1BlZpPX_mLFc
+2023-05-09 00:55:20.790 -04:00 [INF] File rovno_(6225-1330896)_1000_(90x50)_4-4_350_24-face.pdf : 1JzQW6sSQ_Tfyt88_skfC7zyBzH1VlD2y
+2023-05-09 00:55:22.232 -04:00 [INF] File sevastopol_(180-1330274)_1000_(90x50)_4-4_350_24-face.pdf : 1_j8oyzJ1IUg_xmQJ_JNi3eND2jYQadIo
+2023-05-09 00:55:23.588 -04:00 [INF] File truskavets_(2311-1326665)_70x100_1000_sticker.pdf : 1yQdVrJneJ1eoSaEPEej5RteAFJLV5oWS
+2023-05-09 00:55:24.985 -04:00 [INF] File cherkassy_(3494-1327409)-face.pdf : 16JH6XOpbbmolAoQcee4XzvLM6qjat1uh
+2023-05-09 01:15:02.807 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-09 01:15:02.848 -04:00 [INF] Hosting environment: Development
+2023-05-09 01:15:02.852 -04:00 [INF] Content root path: D:\ASP NET\Sborka Drive\UploaderService\UploaderService
+2023-05-09 01:15:30.779 -04:00 [INF] File belgorod-dnestrovskiy_(1279-1331064)_10000_(100x70)_4-4_250_72-face.pdf : 1LmybJnHETyZ2kVZQH5ZiTmcsJaf99JWp
+2023-05-09 01:15:42.804 -04:00 [INF] File chernovtsy_(867-1330937)_1000_(210x99)_4-4_130_24-face.pdf : 1hM1ouyDuGKnPFltkkm3jErEX9assjtM3
+2023-05-09 01:15:52.705 -04:00 [INF] File dnepropetrovsk_(681-1330580)_1000_(90x50)_4-4_350_24-face.pdf : 1W1YwK6RwENT0OiSKawcVAzbgh8g9kFGL
+2023-05-09 01:16:00.105 -04:00 [INF] File donetsk_(38-1330534)_1000_(90x50)_4-4_350_72-face.pdf : 1Xe0ADJgYktlUQYOQYiuIxqJR5Qk-hT26
+2023-05-09 01:16:04.502 -04:00 [INF] File donetsk_(952-1330573)_1000_(90x50)_4-4_350_24-face.pdf : 14FyIcGuciOtIplr5_H5jPbo0rVj-st7m
+2023-05-09 01:16:24.399 -04:00 [INF] File khmelnitskiy_(5647-1330417)_1000_(90x50)_4-4_350_24-face.pdf : 1gl1HqKIsaiK18rs0ACJC9FmzKq2hGBJ-
+2023-05-09 01:16:41.931 -04:00 [INF] File kiev_(304-1330441)_1000_(90x50)_4-4_350_72-face.pdf : 1P6WxQxPCzPTxCdoJC2iOViolLa2WpJaj
+2023-05-09 01:16:51.962 -04:00 [INF] File lutsk_(1771-1324219)_1000_(229x162)_4-0_180_72_envelope.pdf : 1F3o0DL4LPzJL1r8vMZJVThk9N2lsgpcl
+2023-05-09 01:16:54.434 -04:00 [INF] File odessa_(553-1330872)_1000_(90x50)_4-4_350_72-face.pdf : 1VnEalbRF_7SwXUUHAt3Wk_Guf8Rgq0n6
+2023-05-09 01:16:58.811 -04:00 [INF] File poltava_(2474-1323675)-face.pdf : 1vO9ZbNFUgRGuAS8a3alhDhfHx4wi6H_y
+2023-05-09 01:17:01.291 -04:00 [INF] File sevastopol_(180-1330274)_1000_(90x50)_4-4_350_24-face.pdf : 1cy0_EzMJ_WghOIE6zw2oCvjMaEbFxhv1
+2023-05-09 01:26:38.635 -04:00 [INF] File cherkassy_(158-1330869)_1000_(90x50)_4-4_350_72-face.pdf : 13DfAgHEyMYqVYkYZK6YDWmauFQhRDDyD
+2023-05-09 01:26:43.406 -04:00 [INF] File kharkov_(7153-1330538)_1000_(90x50)_4-4_250_120-face.pdf : 1KDCeR19TCPfnZXb-Q6O9r6MXHG3GyBL1
+2023-05-09 01:26:58.884 -04:00 [INF] File krasnoarmeysk_(190-1330145)_1000_(90x50)_4-4_350_24-face.pdf : 1U1JrqEPfcXnCpyEV0z-ta8nffOvPcZhh
+2023-05-09 01:27:04.278 -04:00 [INF] File pavlograd_(5006-1328086)-face.pdf : 1E58eiRvtvDS7TLrT8e-9n3Q00ycm9yvh
